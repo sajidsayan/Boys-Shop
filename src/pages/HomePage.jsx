@@ -13,6 +13,16 @@ const HomePage = () => {
     hidden: { opacity: 0, y: 50 },
     visible: { opacity: 1, y: 0, transition: { duration: 0.7, ease: "easeOut" } }
   };
+  <script type="text/javascript">
+	atOptions = {
+		'key' : 'faa6f761ddabb251a589ce89b8657252',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/faa6f761ddabb251a589ce89b8657252/invoke.js"></script>
 
   const whyShopItems = [
     {
